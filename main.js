@@ -77,4 +77,4 @@ if(commend === 'w', 's', 'a', 'd', 'space', 'ENTER'){
 
 
 //Bot token
-client.login('');
+client.login('zM2OTQ4NDU3Mjk3ODA1MzEz.Xx2OvA.cVg0iP8xX5B32HEFIxfRKMQnyNk');
